@@ -3,3 +3,4 @@ uploads/*
 !uploads/.gitkeep
 *.db
 media_sequencer.db
+uploads/media_sequencer.db
